@@ -1,0 +1,67 @@
+[2025-05-20 08:57:20] You: hie
+[2025-05-20 08:57:20] TrustBot: Hmm, I didn't understand that. Try another topic.
+[2025-05-20 08:57:26] You: hie
+[2025-05-20 08:57:26] TrustBot: Hmm, I didn't understand that. Try another topic.
+[2025-05-20 08:57:29] You: ki
+[2025-05-20 08:57:29] TrustBot: Hmm, I didn't understand that. Try another topic.
+[2025-05-20 08:57:34] You: hie
+[2025-05-20 08:57:34] TrustBot: Hmm, I didn't understand that. Try another topic.
+[2025-05-20 08:57:38] You: hey
+[2025-05-20 08:57:38] TrustBot: Hello!
+[2025-05-20 08:57:46] You: how are you
+[2025-05-20 08:57:46] TrustBot: I'm feeling great, thanks for asking!
+[2025-05-20 09:12:23] You: hi
+[2025-05-20 09:12:23] TrustBot: Hi!
+[2025-05-20 09:12:36] You: how are you
+[2025-05-20 09:12:36] TrustBot: I'm feeling great, thanks for asking!
+[2025-05-20 09:13:32] You: hey hey
+[2025-05-20 09:13:32] TrustBot: Hey there!
+[2025-05-20 09:14:15] You: how are you
+[2025-05-20 09:14:15] TrustBot: I'm feeling great, thanks for asking!
+[2025-05-20 09:14:34] You: how is home
+[2025-05-20 09:14:34] TrustBot: Home is peace and Wi-Fi.
+[2025-05-20 09:15:12] You: okay bye
+[2025-05-20 09:15:12] TrustBot: Goodbye! Catch you later.
+[2025-05-20 09:18:41] You: hello
+[2025-05-20 09:18:41] TrustBot: What's up?
+[2025-05-20 09:18:52] You: how
+[2025-05-20 09:19:09] You: I said how are you doing
+[2025-05-20 09:19:09] TrustBot: I'm feeling great, thanks for asking!
+[2025-05-20 09:19:34] You: I said that's
+[2025-05-20 09:19:34] TrustBot: I’m still learning! Wanna talk about tech, school, or football?
+[2025-05-20 09:19:52] You: oh do you know
+[2025-05-20 09:19:52] TrustBot: Tech is my world! AI, coding, gadgets... I love it.
+[2025-05-20 09:20:10] You: let's talk about AI
+[2025-05-20 09:20:10] TrustBot: Tech is my world! AI, coding, gadgets... I love it.
+[2025-05-20 09:20:25] You: lest talk about AI
+[2025-05-20 09:20:25] TrustBot: Huh? Not sure I got that. Try another topic like sports or work!
+[2025-05-20 09:20:38] You: AI
+[2025-05-20 09:20:38] TrustBot: I’m still learning! Wanna talk about tech, school, or football?
+[2025-05-20 09:25:42] You: hi
+[2025-05-20 09:25:42] TrustBot: Hello!
+[2025-05-20 09:26:10] You: hows home
+[2025-05-20 09:26:10] TrustBot: Home is peace and Wi-Fi.
+[2025-05-20 09:26:20] You: football
+[2025-05-20 09:26:20] TrustBot: I'm into football and basketball. You?
+[2025-05-20 09:26:40] You: im into basketball
+[2025-05-20 09:26:40] TrustBot: Basketball is fast, tactical, and fun to watch. NBA or streetball?
+[2025-05-20 09:26:48] You: nba
+[2025-05-20 09:26:48] TrustBot: Want to know more about something specific in that topic?
+[2025-05-20 09:26:56] You: yeah
+[2025-05-20 09:26:56] TrustBot: Want to know more about something specific in that topic?
+[2025-05-20 09:29:03] You: hie
+[2025-05-20 09:29:03] TrustBot: Hmm, I didn't understand that. Try another topic like tech or sports.
+[2025-05-20 09:30:04] You: hie
+[2025-05-20 09:30:04] TrustBot: Hello!
+[2025-05-20 09:30:11] You: how are you
+[2025-05-20 09:30:11] TrustBot: I'm feeling great, thanks for asking!
+[2025-05-20 09:30:23] You: hows home or work
+[2025-05-20 09:30:23] TrustBot: Hmm, I didn't understand that. Try another topic like tech or sports.
+[2025-05-20 09:30:29] You: hows home
+[2025-05-20 09:30:29] TrustBot: Home is peace and Wi-Fi.
+[2025-05-20 09:30:48] You: great
+[2025-05-20 09:30:48] TrustBot: Hmm, I didn't understand that. Try another topic like tech or sports.
+[2025-05-20 09:47:45] You: hie
+[2025-05-20 09:47:45] TrustBot: Hi!
+[2025-05-20 09:47:50] You: how are you
+[2025-05-20 09:47:50] TrustBot: I'm feeling great, thanks for asking!
